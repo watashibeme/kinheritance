@@ -1,0 +1,3 @@
+# kinheritance
+abstract 
+override 
