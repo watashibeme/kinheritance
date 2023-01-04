@@ -1,0 +1,13 @@
+val stu = student (name = "mohammad" , age = 19, height = 180, weight = 62)
+stu.addcourse (courseName = "riazi")
+stu.addcourse (courseName = "farsi")
+val stu2=student (name = "Ali" age = 20
+stu2.addcourse (courseName = "riazi")
+stu2.addcourse (courseName = "farsi")
+height = 177, weight = 76)
+val teach1-teacher (name="reza", age-38, height = 176, weight = 81)
+teach1.addclasses (className - "Geraphic")
+teach1.addclasses (className = "Computer")
+stu.printcourse ()
+stu2.printcourse()
+teach1.printclass()
